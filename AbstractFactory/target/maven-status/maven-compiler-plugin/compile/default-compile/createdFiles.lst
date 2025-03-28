@@ -1,0 +1,15 @@
+uninpahupack3\ConexionRESTVentas.class
+uninpahupack1\ConexionRESTFabrica.class
+uninpahupack3\ConexionMySQL.class
+uninpahupack3\ConexionVacia.class
+uninpahupack2\FabricaAbstracta.class
+uninpahupack3\ConexionRESTNoArea.class
+uninpahupack3\ConexionPostgreSQL.class
+uninpahupack1\FabricaProductor.class
+uninpahupack2\IConexionREST.class
+uninpahupack3\ConexionOracle.class
+uninpahupack1\App.class
+uninpahupack2\IConexionBD.class
+uninpahupack3\ConexionSQLServer.class
+uninpahupack3\ConexionRESTCompras.class
+uninpahupack1\ConexionBDFabrica.class
